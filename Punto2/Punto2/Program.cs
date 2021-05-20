@@ -15,6 +15,7 @@ namespace SegundoPunto
                 {
                     Console.WriteLine("Que operacion desea realizar: Suma[1] - Resta[2] - Multiplicacion[3] - Division[4]");
                     operacion = Convert.ToInt32(Console.ReadLine());
+                
                 } while (1 < operacion && operacion > 4);
 
                 Console.WriteLine("Ingrese el primer numero: ");
