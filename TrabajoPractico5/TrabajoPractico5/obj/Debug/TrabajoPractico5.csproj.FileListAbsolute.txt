@@ -1,0 +1,7 @@
+C:\Taller1\Repositorios\parte2\tp5---2021-araasilva\TrabajoPractico5\TrabajoPractico5\bin\Debug\TrabajoPractico5.exe.config
+C:\Taller1\Repositorios\parte2\tp5---2021-araasilva\TrabajoPractico5\TrabajoPractico5\bin\Debug\TrabajoPractico5.exe
+C:\Taller1\Repositorios\parte2\tp5---2021-araasilva\TrabajoPractico5\TrabajoPractico5\bin\Debug\TrabajoPractico5.pdb
+C:\Taller1\Repositorios\parte2\tp5---2021-araasilva\TrabajoPractico5\TrabajoPractico5\obj\Debug\TrabajoPractico5.csprojAssemblyReference.cache
+C:\Taller1\Repositorios\parte2\tp5---2021-araasilva\TrabajoPractico5\TrabajoPractico5\obj\Debug\TrabajoPractico5.csproj.CoreCompileInputs.cache
+C:\Taller1\Repositorios\parte2\tp5---2021-araasilva\TrabajoPractico5\TrabajoPractico5\obj\Debug\TrabajoPractico5.exe
+C:\Taller1\Repositorios\parte2\tp5---2021-araasilva\TrabajoPractico5\TrabajoPractico5\obj\Debug\TrabajoPractico5.pdb
