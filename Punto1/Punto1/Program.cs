@@ -24,7 +24,8 @@ namespace PrimerPunto
                 }
                 Console.WriteLine("El numero invertido es: " + inverso);
             }
-            else Console.WriteLine("el numero ingresado es menor o igual que 0");
+            else Console.WriteLine("el numero ingresado es menor o igual que 0, no se pudo realizar la conversion");
+            int num2 = Convert.ToInt32(Console.ReadLine());
 
         }
     }
