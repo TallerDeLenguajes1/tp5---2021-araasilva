@@ -2,9 +2,9 @@
 
 namespace SegundoPunto
 {
-    class Punto2
+    class Program
     {
-        public void calculadora()
+        static void Main(string[] args)
         {
             int bandera;
 
@@ -15,7 +15,7 @@ namespace SegundoPunto
                 {
                     Console.WriteLine("Que operacion desea realizar: Suma[1] - Resta[2] - Multiplicacion[3] - Division[4]");
                     operacion = Convert.ToInt32(Console.ReadLine());
-                
+
                 } while (1 < operacion && operacion > 4);
 
                 Console.WriteLine("Ingrese el primer numero: ");
@@ -53,5 +53,7 @@ namespace SegundoPunto
             } while (bandera == 1);
             Console.WriteLine("Cerrando calculadora..");
         }
+    
     }
 }
+
